@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: fatiihbulbul Blog
+email: muhammetfatihbulbul@gmail.com
+description: > Bu blogda çalıştığım alanlar, hobilerim, düşüncelerim, ilgi alanlarım ve yaşadıklarım hakkında yazılar paylaşacağım. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://fatiihbulbul.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: fatiihbulbul
+github_username: fatiihbulbul
 
 # Build settings
 markdown: kramdown
