@@ -1,7 +1,7 @@
 # Site settings
 title: fatiihbulbul Blog
 email: muhammetfatihbulbul@gmail.com
-description: > Bu blogda çalıştığım alanlar, hobilerim, düşüncelerim, ilgi alanlarım ve yaşadıklarım hakkında yazılar paylaşacağım. # this means to ignore newlines until "baseurl:"
+description: > s# this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://fatiihbulbul.github.io" # the base hostname & protocol for your site
 
