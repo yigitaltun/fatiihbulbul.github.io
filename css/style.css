@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+body {
+  background-color: white;
+  font-family: "Quicksand";
+  font-size: 16px;
+}
+.clear {
+  clear: both;
+}
+.constant {
+    width: 45%;
+    float: left;
+    background: black;
+    height: 100%;
+    position: fixed;
+}
+.content {
+  width: 55%;
+  float: right;
+  box-sizing: border-box;
+  padding: 20px 40px;
+  background: #efefef;
+  font-size: 2vw;
+  color: #303030;
+  line-height: 1.3em;
+}
