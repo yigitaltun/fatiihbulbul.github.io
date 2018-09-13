@@ -6,25 +6,44 @@
 body {
   background-color: white;
   font-family: "Quicksand";
-  font-size: 16px;
+  height: 100%;
+  margin: 0px;
+  font-size: 1em;
+  line-height: 1.4;
 }
 .clear {
   clear: both;
 }
 .constant {
-    width: 45%;
-    float: left;
-    background: black;
-    height: 100%;
-    position: fixed;
+  width: 45%;
+  height: 100%;
+  background-image: url(../images/constant.png);
+  background-size: 100%;
+  border-bottom-right-radius: 10px;
+  position: fixed;
+  float: left;
 }
-.content {
-  width: 55%;
-  float: right;
-  box-sizing: border-box;
-  padding: 20px 40px;
-  background: #efefef;
+.panel {
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+}
+.headline {
+  text-align: right;
+}
+.headline h1 {
+  font-size: 4vw;
+  color: white;
+}
+.headline h2 {
   font-size: 2vw;
-  color: #303030;
-  line-height: 1.3em;
+  color: white;
+}
+.link {
+  margin-top: 
+}
+.link nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1vw;
 }
